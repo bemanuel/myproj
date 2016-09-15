@@ -8,4 +8,10 @@ public class Tela {
 		System.out.println("2. Entrar em projeto existente ");
 	}
 	
+	public void submenu() {
+		// TODO Auto-generated method stub
+		System.out.println("1. Adicionar Recursos ");
+		System.out.println("2. Remover Recursos ");
+	}
+	
 }
